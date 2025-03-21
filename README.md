@@ -1,1 +1,1 @@
-A public repository containing data and figures related to the MATH3001 module.
+A public repository containing data and figures related to the MATH3001 module. Please note that FEV_Analysis_VictoriaBridge.py, the Python code used to generate quadrant FEV plots, was taken from https://github.com/Rivers-Project-2018/How-to-do-FEV-Analysis and lightly modified (created by Abbey Chapman, 2018).
