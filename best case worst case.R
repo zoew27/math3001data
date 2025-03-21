@@ -10,8 +10,7 @@ text(x=105, y=96, label="Best case", srt=90, pos=1, cex=0.8, xpd=TRUE)
 polygon(x=c(0,29.2,88.9,0), y=c(0,0,100,100), col="tomato1")
 polygon(x=c(29.2,29.7,92,70), y=c(0,0,100,100), col="mediumblue")
 polygon(x=c(29.7,29.7,95,92), y=c(0,0,100,100), col="yellow")
-# Adding the fourth polygon
-polygon(x=c(29.7, 29.7, 100, 95), y=c(0, 0, 100, 100), col="purple")  # New fourth polygon
+polygon(x=c(29.7, 29.7, 100, 95), y=c(0, 0, 100, 100), col="purple") 
 
 
 
